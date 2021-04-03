@@ -1,4 +1,4 @@
-<p style = "text-align: center;">On Saturday, April 10, two members of Student Government will be hosting
+<p style = "text-align: center;">On Saturday, April 10, two Student Government members will be hosting
                                  a charity steam for <em><a href="https://gamersoutreach.org/">Gamer's Outreach Foundation</a></em></p>
 
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
