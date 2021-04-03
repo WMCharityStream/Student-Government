@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-name: WM Student Government
-title: null
-button: null
+title: WM Student Government
 description: Charity Stream Website
+github:
+  is_project_page: false
