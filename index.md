@@ -9,4 +9,4 @@
 
 <p style = "text-align: center;">Thank you to our <em><a href="sponsors" target = "_blank" rel = "noopener noreferrer">sponsors!</a></em></p>
 
-<link rel="icon" type="image/jpg" href="https://raw.githubusercontent.com/WMCharityStream/Student-Government/gh-pages/tabheader16x16.png"/>
+<link rel="icon" type="image/jpg" href="https://raw.githubusercontent.com/WMCharityStream/Student-Government/gh-pages/tabheader16x16.png">
