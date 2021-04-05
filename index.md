@@ -7,4 +7,4 @@
 <h2 style = "text-align: center;">Click on the image below to access the stream!</h2>
 <a href="https://tiltify.com/@aidan-o-brien/wmstudentgovernment" target = "_blank" rel = "noopener noreferrer"><img src="https://raw.githubusercontent.com/WMCharityStream/Student-Government/gh-pages/image2.png" alt = "Student Government Charity Stream"></a>
 
-<p style = "text-align: center;">Thank you to our <em><a href="sponsors.md" target = "_blank" rel = "noopener noreferrer">sponsors!</a></em></p>
+<p style = "text-align: center;">Thank you to our <em><a href="sponsors" target = "_blank" rel = "noopener noreferrer">sponsors!</a></em></p>
