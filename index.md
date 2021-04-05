@@ -5,4 +5,4 @@
 <a href="https://logwork.com/countdown-timer" class="countdown-timer" data-style="circles" data-timezone="America/New_York" data-date="2021-04-10 09:00" data-background="#99afde">Charity Steam Begins In...</a>
 
 <h3 style = "text-align: center;">Click the image to access the stream!</h3>
-<a href="https://tiltify.com/@aidan-o-brien/wmstudentgovernment"><img src="https://ibb.co/r0Wnbvf" alt = "Student Government Charity Stream"></a>
+<a href="https://tiltify.com/@aidan-o-brien/wmstudentgovernment"><img src="img/image2.png" alt = "Student Government Charity Stream"></a>
