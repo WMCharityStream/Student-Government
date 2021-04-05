@@ -8,3 +8,11 @@
 <a href="https://tiltify.com/@aidan-o-brien/wmstudentgovernment" target = "_blank" rel = "noopener noreferrer"><img src="https://raw.githubusercontent.com/WMCharityStream/Student-Government/gh-pages/image2.png" alt = "Student Government Charity Stream"></a>
 
 <p style = "text-align: center;">Thank you to our <em><a href="sponsors" target = "_blank" rel = "noopener noreferrer">sponsors!</a></em></p>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
