@@ -5,7 +5,4 @@
 <a href="https://logwork.com/countdown-timer" class="countdown-timer" data-style="circles" data-timezone="America/New_York" data-date="2021-04-10 09:00" data-background="#99afde">Charity Steam Begins In...</a>
 
 <h3 style = "text-align: center;">Click the image to access the stream!</h3>
-<a href="https://tiltify.com/@aidan-o-brien/wmstudentgovernment" target = "_blank" rel = "noopener noreferrer"><img src="img/image2.png" alt = "Student Government Charity Stream"></a>
-
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-0ab99069-6acc-4ef0-a71c-17291c13998a"></div>
+<a href="https://tiltify.com/@aidan-o-brien/wmstudentgovernment" target = "_blank" rel = "noopener noreferrer"><img src="https://raw.githubusercontent.com/WMCharityStream/Student-Government/gh-pages/image2.png" alt = "Student Government Charity Stream"></a>
