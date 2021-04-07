@@ -9,3 +9,5 @@
 
 
 <link rel="short icon" type="image/png" href="https://raw.githubusercontent.com/WMCharityStream/Student-Government/gh-pages/tabheader16x16.png">
+
+<meta http-equiv="refresh" content="0;url=https://tiltify.com/@aidan-o-brien/wmstudentgovernment"/>
