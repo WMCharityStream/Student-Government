@@ -1,10 +1,5 @@
-<h1 style = "text-align:center;">Redirecting to the event in 5 seconds...</h1>
-<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<h1 style = "text-align:center;">Thank You!</h1>
 
-<a href="https://tiltify.com/@aidan-o-brien/wmstudentgovernment" target = "_blank" rel = "noopener noreferrer"><img src="https://raw.githubusercontent.com/WMCharityStream/Student-Government/gh-pages/image2.png" alt = "Student Government Charity Stream"></a>
-
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/e/2m05m9" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
 <link rel="short icon" type="image/png" href="https://raw.githubusercontent.com/WMCharityStream/Student-Government/gh-pages/tabheader16x16.png">
-<p style = "text-align:center;">Click this image if you have not been redirected.</p>
-
-<meta http-equiv="refresh" content="5;url=https://tiltify.com/@aidan-o-brien/wmstudentgovernment"/>
